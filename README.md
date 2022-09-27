@@ -99,5 +99,6 @@ oEditor.CreateSphere(
 
 <<<<<<< HEAD
 ## Приложения
-https://github.com/DeadVafel/in-GameDev-1/tree/1Task
+Древо - https://github.com/DeadVafel/in-GameDev-1/tree/1Task
+Отчет - https://github.com/DeadVafel/in-GameDev-1/blob/1Task/%D0%9A%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%BE%D0%B2%D0%9A%D0%92_1%D0%BE%D1%82%D1%87%D0%B5%D1%82.pdf
 
