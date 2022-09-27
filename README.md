@@ -97,4 +97,7 @@ oEditor.CreateSphere(
 также использованы основные операторы зыка Python на
 примере реализации линейной регрессии
 
+<<<<<<< HEAD
 ## Приложения
+https://github.com/DeadVafel/in-GameDev-1/tree/1Task
+
