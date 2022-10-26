@@ -18,7 +18,7 @@
 ### Реализовать совместную работу и передачу данных в связке Python - Google-Sheets – Unity.
 
 1.Создан новый проект.
-![Unity](![image](https://user-images.githubusercontent.com/104380312/198032067-e006226f-39f3-405c-8c08-c7384d925542.png))
+![Unity]([![[image](https://user-images.githubusercontent.com/104380312/198032067-e006226f-39f3-405c-8c08-c7384d925542.png)](https://sun9-north.userapi.com/sun9-81/s/v1/ig2/g9iVH3GN3Pxne5Ca3zUs-DoYbE-E2QE6mfFGVMK5R6wybzzzmtcFwz9g7AI-X588AXtXyLLGe-l_JpEWL5LX4KEY.jpg?size=975x587&quality=96&type=album)](https://sun9-north.userapi.com/sun9-81/s/v1/ig2/g9iVH3GN3Pxne5Ca3zUs-DoYbE-E2QE6mfFGVMK5R6wybzzzmtcFwz9g7AI-X588AXtXyLLGe-l_JpEWL5LX4KEY.jpg?size=975x587&quality=96&type=album))
 2. Последовательно добавлены .json – файлы.
 ![.json](![image](https://user-images.githubusercontent.com/104380312/198032194-8391fb94-7082-496e-b9e6-dc73e641a0ef.png))
 3.Написана серия команд для создания и активации нового ML-агента, а также для скачивания необходимых библиотек.
