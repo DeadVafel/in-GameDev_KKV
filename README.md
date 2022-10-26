@@ -35,6 +35,7 @@
 ![Unity](https://sun9-east.userapi.com/sun9-34/s/v1/ig2/iDN-YlQGq_lAuKa8MNRFDoicgFR74IoD7sBiGcmdgAOeGJEOhuWXABQdNVQtR292p1A85gHf8GLxY5Nxjng88kLE.jpg?size=685x492&quality=96&type=album)
 
 9.Сделайте вывод.
+
 За меньшее время достигаются более точные показатели во время обучения ИИ.
 
 ## Задание 2
