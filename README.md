@@ -33,6 +33,7 @@
 ![console](https://sun9-east.userapi.com/sun9-73/s/v1/ig2/svE8YZSzxshsUvS0BAQ-YPJjWaY6OGj9OQhhmKamE5ESWzDqi-wIPIF2Ati7fyQC_Y4ALxETQPNTfIh4nvzVOWOF.jpg?size=973x506&quality=96&type=album)
 8.Сделайте 3, 9, 27 копий модели «Плоскость-Сфера-Куб».
 ![Unity](https://sun9-east.userapi.com/sun9-34/s/v1/ig2/iDN-YlQGq_lAuKa8MNRFDoicgFR74IoD7sBiGcmdgAOeGJEOhuWXABQdNVQtR292p1A85gHf8GLxY5Nxjng88kLE.jpg?size=685x492&quality=96&type=album)
+
 9.Сделайте вывод.
 За меньшее время достигаются более точные показатели во время обучения ИИ.
 
