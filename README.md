@@ -32,24 +32,24 @@
 ### batch_size
 увеличение показателя
 
-![batch_size](https://sun3.userapi.com/sun3-8/s/v1/ig2/dIsrcvgpFr4YtpciJH7A54IUW9CzSn8Y1yqZvsEjAbXOVWYoPrO7KK0bdON6bgtkHl8GIEWtQC7_LYcPfS_t_yf0.jpg?size=1873x1041&quality=96&type=album)
-![batch_size](https://sun9-north.userapi.com/sun9-82/s/v1/ig2/vNtAU4GewLEwQxMHsVjM6wa9VW5OUDnVZ7s5UE84j5sZaVXfsE0zWsEaoRR7azF2MOK5hqbgBYy94Uc_mQ6BYW_X.jpg?size=270x84&quality=96&type=album)
+![batch_size](https://sun9-north.userapi.com/sun9-77/s/v1/ig2/jCTrK5ZjSSU9nCP-y4L4YRCK7-36X3ISM7NeHFnTPmQQLTchhdwVqCi3qEs32eZE1qXDOMN6Ny2GuWhFVT5QQcle.jpg?size=1519x815&quality=96&type=album)
+![batch_size](https://sun9-east.userapi.com/sun9-26/s/v1/ig2/ITysMe4KaoRhruvga33WiR6h4mWxbDEHSdIumSBN8K7MuDkNZkysPdl2uPsvTM-MMKTreRU-CzyRQ0fXCmvpRgUa.jpg?size=297x72&quality=96&type=album)
 
 уменьшение показателя
 
-![batch_size](https://sun9-north.userapi.com/sun9-77/s/v1/ig2/jCTrK5ZjSSU9nCP-y4L4YRCK7-36X3ISM7NeHFnTPmQQLTchhdwVqCi3qEs32eZE1qXDOMN6Ny2GuWhFVT5QQcle.jpg?size=1519x815&quality=96&type=album)
-![batch_size](https://sun9-east.userapi.com/sun9-26/s/v1/ig2/ITysMe4KaoRhruvga33WiR6h4mWxbDEHSdIumSBN8K7MuDkNZkysPdl2uPsvTM-MMKTreRU-CzyRQ0fXCmvpRgUa.jpg?size=297x72&quality=96&type=album)
+![batch_size](https://sun3.userapi.com/sun3-8/s/v1/ig2/dIsrcvgpFr4YtpciJH7A54IUW9CzSn8Y1yqZvsEjAbXOVWYoPrO7KK0bdON6bgtkHl8GIEWtQC7_LYcPfS_t_yf0.jpg?size=1873x1041&quality=96&type=album)
+![batch_size](https://sun9-north.userapi.com/sun9-82/s/v1/ig2/vNtAU4GewLEwQxMHsVjM6wa9VW5OUDnVZ7s5UE84j5sZaVXfsE0zWsEaoRR7azF2MOK5hqbgBYy94Uc_mQ6BYW_X.jpg?size=270x84&quality=96&type=album)
 
 ### buffer_size
 увеличение показателя
 
-![buffer_size](https://sun9-west.userapi.com/sun9-67/s/v1/ig2/tf6KJJNMJyXtakJvlOKiuxqCajnPiaflQ07-5J8S2E6SW-jZYfwkXe37t-DK-69Kb3TxbVpskVLV34v0l__HPobH.jpg?size=1915x969&quality=96&type=album)
-![buffer_size](https://sun9-west.userapi.com/sun9-54/s/v1/ig2/YbExmfrWg4lmLEwCP0yPAtiWEX5HpZnEWw9LwWPe2-qc6Qj_BmbiCHpX8G9utOymG48wCiNNkCNnIvG8Bn7zrUFb.jpg?size=303x143&quality=96&type=album)
+![buffer_size](https://sun9-east.userapi.com/sun9-26/s/v1/ig2/Akd3ueREPo5KcqMC_3-J-_ULX7urpKwG-oiRjbImf4bpgwktK79hq6MG5iQgsdy93GGo1cc60LZyNEVElPExw-DT.jpg?size=1517x766&quality=96&type=album)
+![buffer_size](https://sun3.userapi.com/sun3-16/s/v1/ig2/mAexoJjIxGKS6UaBfq_cTadNXvOn4z2L4QA-RJRs9rVUjp_aC-4aOLQDznxj2DwTIrnRKfN4mC2KX9fL3k6DG1mm.jpg?size=272x93&quality=96&type=album)
 
 уменьшение показателя
 
-![buffer_size](https://sun9-east.userapi.com/sun9-26/s/v1/ig2/Akd3ueREPo5KcqMC_3-J-_ULX7urpKwG-oiRjbImf4bpgwktK79hq6MG5iQgsdy93GGo1cc60LZyNEVElPExw-DT.jpg?size=1517x766&quality=96&type=album)
-![buffer_size](https://sun3.userapi.com/sun3-16/s/v1/ig2/mAexoJjIxGKS6UaBfq_cTadNXvOn4z2L4QA-RJRs9rVUjp_aC-4aOLQDznxj2DwTIrnRKfN4mC2KX9fL3k6DG1mm.jpg?size=272x93&quality=96&type=album)
+![buffer_size](https://sun9-west.userapi.com/sun9-67/s/v1/ig2/tf6KJJNMJyXtakJvlOKiuxqCajnPiaflQ07-5J8S2E6SW-jZYfwkXe37t-DK-69Kb3TxbVpskVLV34v0l__HPobH.jpg?size=1915x969&quality=96&type=album)
+![buffer_size](https://sun9-west.userapi.com/sun9-54/s/v1/ig2/YbExmfrWg4lmLEwCP0yPAtiWEX5HpZnEWw9LwWPe2-qc6Qj_BmbiCHpX8G9utOymG48wCiNNkCNnIvG8Bn7zrUFb.jpg?size=303x143&quality=96&type=album)
 
 ### learning_rate
 увеличение показателя
