@@ -144,7 +144,7 @@ public class Perceptron : MonoBehaviour {
 ### 6. XOR.
 За 8 эпох безошибочного результата не произошло, что привело к увеличению показателя Train с 8 до 1000. На 1000 эпохе значение Total Error по прежнему 4.
 ![XOR](https://sun9-west.userapi.com/sun9-70/s/v1/ig2/j3b1gFIBquoAx0gCTjT2ulQ7FBdNF8bnR4N-fGXYIRUQd4gKyaZX-JKQJ0a23jimXbPLnSWHHH6A_i7qtXr9KcJ8.jpg?size=1917x1040&quality=96&type=album)
-![XOR1000]https://sun9-west.userapi.com/sun9-1/s/v1/ig2/nUzlAASTsW3ZMWxCXiJKUOYI6OYnM0IO9E6nqnq9R6qd9FJU3kZXdlnFDBCDY97teCdSZxKHmic5xeLCWS0dpGtf.jpg?size=1917x1037&quality=96&type=album)
+![XOR1000](https://sun9-west.userapi.com/sun9-1/s/v1/ig2/nUzlAASTsW3ZMWxCXiJKUOYI6OYnM0IO9E6nqnq9R6qd9FJU3kZXdlnFDBCDY97teCdSZxKHmic5xeLCWS0dpGtf.jpg?size=1917x1037&quality=96&type=album)
 ![XOR1000](https://sun9-west.userapi.com/sun9-8/s/v1/ig2/3Ef5UTekijLhXQvrT78OxMWmGREEU0rdAmDY-dqYUGOza0bLIzOgl4XfljtnHSaw8PxsoV_zY7MVEfkd49pHUfbe.jpg?size=417x196&quality=96&type=album)
 
 
