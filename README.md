@@ -21,7 +21,7 @@
 ![Unity](https://sun9-north.userapi.com/sun9-82/s/v1/ig2/F6un6RUpRiSiQ6OS1jAR-Dq-3808gIcGtmQFIkPYqd2kALIwNAbbvhE85MX1FbmEoEYG-CdHGLoyYA1th747EvLM.jpg?size=1031x592&quality=96&type=album](https://sun9-east.userapi.com/sun9-76/s/v1/ig2/SOTZRMnerZCAIYOkG8i4P8lrJckX-ix8J_NFAxp0_rqiGlN8bocoEEruhA4vqKam2VvkbFrD5Rl9iTpUdwnEl9at.jpg?size=1008x591&quality=96&type=album))
 
 ### 2. Подключение ML Agents и ML Agents Extensions через Package Manager и обучение агента.
-![ML Agents](https://sun9-north.userapi.com/sun9-82/s/v1/ig2/F6un6RUpRiSiQ6OS1jAR-Dq-3808gIcGtmQFIkPYqd2kALIwNAbbvhE85MX1FbmEoEYG-CdHGLoyYA1th747EvLM.jpg?size=1031x592&quality=96&type=album](https://sun9-east.userapi.com/sun9-76/s/v1/ig2/SOTZRMnerZCAIYOkG8i4P8lrJckX-ix8J_NFAxp0_rqiGlN8bocoEEruhA4vqKam2VvkbFrD5Rl9iTpUdwnEl9at.jpg?size=1008x591&quality=96&type=album)](https://sun3.userapi.com/sun3-17/s/v1/ig2/VyHF11XV_ve5S5GkSWoQk_RWUo_p68o7jF38h66wwcQOo1MrrjwtniLBasRRyc_xyh5ClQoTp9-U0qJPyMn7xxvm.jpg?size=1919x1079&quality=96&type=album))
+![ML Agents](https://sun9-west.userapi.com/sun9-2/s/v1/ig2/POv44SUJuVnIGFewMV2gETFSYA8LMDjESFWsryMNgoiRZLrkepwfjxoTOeffWq1V6dfB7lVqpP_Bou-xIzqrrHgL.jpg?size=1919x1079&quality=96&type=album)
 
 ### 3. Установка TensorFlow и открытие TensorBoard.
 ![TensorBoard](https://sun9-east.userapi.com/sun9-18/s/v1/ig2/Sgu5CotMt3QleqkMpW72m0cNJ3UKNYcEbPd1FU8brzZZLU0c_QpIBaRoCCMjOUEbzqsDXda3lRly0JBWB67ut4WK.jpg?size=1919x1079&quality=96&type=album)
