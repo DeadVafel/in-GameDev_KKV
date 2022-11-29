@@ -1,82 +1,60 @@
-# in-GameDev-1
-Лабораторная работа #1
-АНАЛИЗ ДАННЫХ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ [in GameDev]
-Отчет по лабораторной работе #1 выполнил:
+# РАЗРАБОТКА СИСТЕМЫ МАШИННОГО ОБУЧЕНИЯ.
+Отчет по лабораторной работе #3 выполнил:
+- Колчанов Константин Викторович
+- РИ-110949
+Отметка о выполнении заданий (заполняется студентом):
 
-Колчанов Константин Викторович
-РИ-110949 Отметка о выполнении заданий (заполняется студентом):
-Задание	Выполнение	Баллы
-Задание 1	*	60
-Задание 2	*	20
-Задание 3	#	20
+| Задание | Выполнение | Баллы |
+| ------ | ------ | ------ |
+| Задание 1 | * | 60 |
+| Задание 2 | * | 20 |
+| Задание 3 | * | 20 |
 
-Цель работы
-Ознакомиться с основными операторами зыка Python на примере реализации линейной регрессии.
 
-Задание 1
-Пошагово выполнить каждый пункт раздела "ход работы" с описанием и примерами реализации задач
-Ход работы:
+## Цель работы
+Познакомиться с перцептроном и реализовать его в проекте Unity.
 
-Произвести подготовку данных для работы с алгоритмом линейной регрессии. 10 видов данных были установлены случайным образом, и данные находились в линейной зависимости. Данные преобразуются в формат массива, чтобы их можно было вычислить напрямую при использовании умножения и сложения.
-In [ ]:
-#Import the required modules, numpy for calculation, and Matplotlib for drawing
-import numpy as np
-import matplotlib.pyplot as plt
-#This code is for jupyter Notebook only
-%matplotlib inline
+## Задание 1
+### Измените параметры файла. yaml-агента и определить какие параметры и как влияют на обучение модели.
 
-# define data, and change list to array
-x = [3,21,22,34,54,34,55,67,89,99]
-x = np.array(x)
-y = [2,22,24,65,79,82,55,130,150,199]
-y = np.array(y)
+### 1. Создан новый проект.
+![Unity](https://sun9-north.userapi.com/sun9-82/s/v1/ig2/F6un6RUpRiSiQ6OS1jAR-Dq-3808gIcGtmQFIkPYqd2kALIwNAbbvhE85MX1FbmEoEYG-CdHGLoyYA1th747EvLM.jpg?size=1031x592&quality=96&type=album](https://sun9-east.userapi.com/sun9-76/s/v1/ig2/SOTZRMnerZCAIYOkG8i4P8lrJckX-ix8J_NFAxp0_rqiGlN8bocoEEruhA4vqKam2VvkbFrD5Rl9iTpUdwnEl9at.jpg?size=1008x591&quality=96&type=album))
 
-#Show the effect of a scatter plot
-plt.scatter(x,y)
-Определите связанные функции. Функция модели: определяет модель линейной регрессии wx+b. Функция потерь: функция потерь среднеквадратичной ошибки. Функция оптимизации: метод градиентного спуска для нахождения частных производных w и b.
-Задание 2
-Должна ли величина loss стремиться к нулю при изменении исходных данных? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ.
-Перечисленные в этом туториале действия могут быть выполнены запуском на исполнение скрипт-файла, доступного в репозитории.
-Для запуска скрипт-файла откройте Ansys Electronics Desktop. Перейдите во вкладку [Automation] - [Run Script] - [Выберите файл с именем ScreatingSphereInAEDT.py из репозитория].
-import ScriptEnv
-ScriptEnv.Initialize("Ansoft.ElectronicsDesktop")
-oDesktop.RestoreWindow()
-oProject = oDesktop.NewProject()
-oProject.Rename("C:/Users/denisov.dv/Documents/Ansoft/SphereDIffraction.aedt", True)
-oProject.InsertDesign("HFSS", "HFSSDesign1", "HFSS Terminal Network", "")
-oDesign = oProject.SetActiveDesign("HFSSDesign1")
-oEditor = oDesign.SetActiveEditor("3D Modeler")
-oEditor.CreateSphere(
-	[
-		"NAME:SphereParameters",
-		"XCenter:="		, "0mm",
-		"YCenter:="		, "0mm",
-		"ZCenter:="		, "0mm",
-		"Radius:="		, "1.0770329614269mm"
-	], 
-)
-Задание 3
-Какова роль параметра Lr? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ. В качестве эксперимента можете изменить значение параметра.
-Перечисленные в этом туториале действия могут быть выполнены запуском на исполнение скрипт-файла, доступного в репозитории.
-Для запуска скрипт-файла откройте Ansys Electronics Desktop. Перейдите во вкладку [Automation] - [Run Script] - [Выберите файл с именем ScreatingSphereInAEDT.py из репозитория].
-import ScriptEnv
-ScriptEnv.Initialize("Ansoft.ElectronicsDesktop")
-oDesktop.RestoreWindow()
-oProject = oDesktop.NewProject()
-oProject.Rename("C:/Users/denisov.dv/Documents/Ansoft/SphereDIffraction.aedt", True)
-oProject.InsertDesign("HFSS", "HFSSDesign1", "HFSS Terminal Network", "")
-oDesign = oProject.SetActiveDesign("HFSSDesign1")
-oEditor = oDesign.SetActiveEditor("3D Modeler")
-oEditor.CreateSphere(
-	[
-		"NAME:SphereParameters",
-		"XCenter:="		, "0mm",
-		"YCenter:="		, "0mm",
-		"ZCenter:="		, "0mm",
-		"Radius:="		, "1.0770329614269mm"
-	], 
-)
-Выводы
-Были изучены базовые навыки работы с Unity и Python, а
-также использованы основные операторы зыка Python на
-примере реализации линейной регрессии
+### 2. Подключение ML Agents и ML Agents Extensions через Package Manager и обучение агента.
+![ML Agents](https://sun9-north.userapi.com/sun9-82/s/v1/ig2/F6un6RUpRiSiQ6OS1jAR-Dq-3808gIcGtmQFIkPYqd2kALIwNAbbvhE85MX1FbmEoEYG-CdHGLoyYA1th747EvLM.jpg?size=1031x592&quality=96&type=album](https://sun9-east.userapi.com/sun9-76/s/v1/ig2/SOTZRMnerZCAIYOkG8i4P8lrJckX-ix8J_NFAxp0_rqiGlN8bocoEEruhA4vqKam2VvkbFrD5Rl9iTpUdwnEl9at.jpg?size=1008x591&quality=96&type=album)](https://sun3.userapi.com/sun3-17/s/v1/ig2/VyHF11XV_ve5S5GkSWoQk_RWUo_p68o7jF38h66wwcQOo1MrrjwtniLBasRRyc_xyh5ClQoTp9-U0qJPyMn7xxvm.jpg?size=1919x1079&quality=96&type=album))
+
+### 3. Установка TensorFlow и открытие TensorBoard.
+![TensorBoard](https://sun9-east.userapi.com/sun9-18/s/v1/ig2/Sgu5CotMt3QleqkMpW72m0cNJ3UKNYcEbPd1FU8brzZZLU0c_QpIBaRoCCMjOUEbzqsDXda3lRly0JBWB67ut4WK.jpg?size=1919x1079&quality=96&type=album)
+
+
+## Задание 2
+### Измените параметры файла. yaml-агента и определить какие параметры и как влияют на обучение модели.
+###batch_size
+увеличение показателя
+![batch_size](https://sun3.userapi.com/sun3-8/s/v1/ig2/dIsrcvgpFr4YtpciJH7A54IUW9CzSn8Y1yqZvsEjAbXOVWYoPrO7KK0bdON6bgtkHl8GIEWtQC7_LYcPfS_t_yf0.jpg?size=1873x1041&quality=96&type=album)
+![batch_size](https://sun9-east.userapi.com/sun9-18/s/v1/ig2/Sgu5CotMt3QleqkMpW72m0cNJ3UKNYcEbPd1FU8brzZZLU0c_QpIBaRoCCMjOUEbzqsDXda3lRly0JBWB67ut4WK.jpg?size=1919x1079&quality=96&type=album](https://sun9-north.userapi.com/sun9-82/s/v1/ig2/vNtAU4GewLEwQxMHsVjM6wa9VW5OUDnVZ7s5UE84j5sZaVXfsE0zWsEaoRR7azF2MOK5hqbgBYy94Uc_mQ6BYW_X.jpg?size=270x84&quality=96&type=album))
+уменьшение показателя
+![batch_size](https://sun9-north.userapi.com/sun9-77/s/v1/ig2/jCTrK5ZjSSU9nCP-y4L4YRCK7-36X3ISM7NeHFnTPmQQLTchhdwVqCi3qEs32eZE1qXDOMN6Ny2GuWhFVT5QQcle.jpg?size=1519x815&quality=96&type=album)
+![batch_size](https://sun9-east.userapi.com/sun9-26/s/v1/ig2/ITysMe4KaoRhruvga33WiR6h4mWxbDEHSdIumSBN8K7MuDkNZkysPdl2uPsvTM-MMKTreRU-CzyRQ0fXCmvpRgUa.jpg?size=297x72&quality=96&type=album)
+
+###buffer_size
+увеличение показателя
+![buffer_size](https://sun9-west.userapi.com/sun9-67/s/v1/ig2/tf6KJJNMJyXtakJvlOKiuxqCajnPiaflQ07-5J8S2E6SW-jZYfwkXe37t-DK-69Kb3TxbVpskVLV34v0l__HPobH.jpg?size=1915x969&quality=96&type=album)
+![buffer_size](https://sun9-west.userapi.com/sun9-54/s/v1/ig2/YbExmfrWg4lmLEwCP0yPAtiWEX5HpZnEWw9LwWPe2-qc6Qj_BmbiCHpX8G9utOymG48wCiNNkCNnIvG8Bn7zrUFb.jpg?size=303x143&quality=96&type=album)
+уменьшение показателя
+![buffer_size](https://sun9-east.userapi.com/sun9-26/s/v1/ig2/Akd3ueREPo5KcqMC_3-J-_ULX7urpKwG-oiRjbImf4bpgwktK79hq6MG5iQgsdy93GGo1cc60LZyNEVElPExw-DT.jpg?size=1517x766&quality=96&type=album)
+![buffer_size](https://sun3.userapi.com/sun3-16/s/v1/ig2/mAexoJjIxGKS6UaBfq_cTadNXvOn4z2L4QA-RJRs9rVUjp_aC-4aOLQDznxj2DwTIrnRKfN4mC2KX9fL3k6DG1mm.jpg?size=272x93&quality=96&type=album)
+
+###learning_rate
+увеличение показателя
+![learning_rate](https://sun9-north.userapi.com/sun9-88/s/v1/ig2/pfayXUcsKJ5qSuqPXInODmqYzgBc1khfQz-OoGth69iWmyOdmBX2t2ARBtkMwh4uVejRA1mTpCiq69hl0OKe6S4j.jpg?size=1916x1001&quality=96&type=album)
+![learning_rate](https://sun9-east.userapi.com/sun9-27/s/v1/ig2/1oQNEgjMpdaoFwITxccZUWaqCbIql9eeSu5svyZHfYQ7ZhCIECHz9GyFayOb0Eb_TZBrvY7YYS4Uu9owsfzurUZL.jpg?size=281x97&quality=96&type=album)
+уменьшение показателя
+![learning_rate](https://sun9-east.userapi.com/sun9-42/s/v1/ig2/deHT9ez3kraHqgk3bx7affIHyUmA_3ToVDZOz87NsSOZhdA_R_bjeXXiiQYwYTNMgtV8WWCtCT2cNr0s_ppd-EyP.jpg?size=1507x763&quality=96&type=album)
+![learning_rate](https://sun9-west.userapi.com/sun9-2/s/v1/ig2/n87bx8Uay4GIxop1OV1A-kLOXEPLmMkHxdRP4RftrhyZgJOMJGP-RkSocD9HGwzDd5-nqCGKT_BuUZO8FsDmPA9D.jpg?size=516x187&quality=96&type=album)
+
+## Задание 3
+### Опишите результаты, выведенные в TensorBoard. 
+
+## Выводы
+В результате данной лабораторной работы мы ознакомиться с принципами работы перцептрона. Реализовали его в проекте Unity, а также спроектировали визуализацию принципов работы перцептрона при помощи построения графиков зависимости.
