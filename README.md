@@ -33,7 +33,7 @@
 увеличение показателя
 
 ![batch_size](https://sun3.userapi.com/sun3-8/s/v1/ig2/dIsrcvgpFr4YtpciJH7A54IUW9CzSn8Y1yqZvsEjAbXOVWYoPrO7KK0bdON6bgtkHl8GIEWtQC7_LYcPfS_t_yf0.jpg?size=1873x1041&quality=96&type=album)
-![batch_size](https://sun9-east.userapi.com/sun9-18/s/v1/ig2/Sgu5CotMt3QleqkMpW72m0cNJ3UKNYcEbPd1FU8brzZZLU0c_QpIBaRoCCMjOUEbzqsDXda3lRly0JBWB67ut4WK.jpg?size=1919x1079&quality=96&type=album](https://sun9-north.userapi.com/sun9-82/s/v1/ig2/vNtAU4GewLEwQxMHsVjM6wa9VW5OUDnVZ7s5UE84j5sZaVXfsE0zWsEaoRR7azF2MOK5hqbgBYy94Uc_mQ6BYW_X.jpg?size=270x84&quality=96&type=album))
+![batch_size](https://sun9-north.userapi.com/sun9-82/s/v1/ig2/vNtAU4GewLEwQxMHsVjM6wa9VW5OUDnVZ7s5UE84j5sZaVXfsE0zWsEaoRR7azF2MOK5hqbgBYy94Uc_mQ6BYW_X.jpg?size=270x84&quality=96&type=album)
 
 уменьшение показателя
 
